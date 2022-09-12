@@ -3,4 +3,4 @@
 
 1. Handling Imbalanced Data- Under Sampling
 2. Handling Imbalanced Data- Over Sampling
-3.
+3. handling-imbalanced
